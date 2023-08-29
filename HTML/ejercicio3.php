@@ -1,6 +1,6 @@
 <div class="contenedor">
     <h2>Ejercicio 3</h2>
-    <form action="ejercicio3.php" method="GET">
+    <form action="indexDinamico.php" method="GET">
         <input required type="text" name="nombre" placeholder="Nombre">
         <input required type="text" name="apellido" placeholder="Apellido">
         <input required type="text" name="edad" placeholder="Edad">
